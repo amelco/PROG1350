@@ -16,7 +16,7 @@ XYZ Cinemas' online ticket purchasing system enables users to:
 
 Bellow, you can see the final version of the website.
 
-![User Interface image](user_interface.png)
+![User Interface image](designs/user_interface.png)
 
 ## Main Functionalities
 
@@ -55,7 +55,7 @@ After a successful purchase, users can:
 
 Bellow, you can see how the different parts of the system interact with each other.
 
-![User Interface image](design_diagram.png)
+![User Interface image](designs/design_diagram.png)
 
 ## Conclusion
 
