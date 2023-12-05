@@ -12,6 +12,12 @@ XYZ Cinemas' online ticket purchasing system enables users to:
 - Optionally order snacks and drinks.
 - Print tickets directly from the website.
 
+### User interface
+
+Bellow, you can see the final version of the website.
+
+![User Interface image](user_interface.png)
+
 ## Main Functionalities
 
 For a better experience, you'll find everything in a single webpage. You can see all available movies, select the day and time you want to watch it and choose how many tickets do you want. All in the same place.
@@ -44,6 +50,12 @@ This page allows users to:
 After a successful purchase, users can:
 - Print their movie and snack tickets directly from the website.
 - The printing process is dependent on the user's browser and operating system setup.
+
+## System Design 
+
+Bellow, you can see how the different parts of the system interact with each other.
+
+![User Interface image](design_diagram.png)
 
 ## Conclusion
 
