@@ -1,10 +1,9 @@
 # XYZ Cinemas - User guide
 
-## 1. Introduction to the System
 
 Welcome to XYZ Cinemas' Online Ticket Purchasing System! This platform is designed to provide a convenient experience for users to browse, select, and purchase movie tickets online.
 
-### System Overview
+## System Overview
 
 XYZ Cinemas' online ticket purchasing system enables users to:
 - Explore a variety of movie options.
@@ -13,7 +12,7 @@ XYZ Cinemas' online ticket purchasing system enables users to:
 - Optionally order snacks and drinks.
 - Print tickets directly from the website.
 
-## 2. Main Functionalities
+## Main Functionalities
 
 For a better experience, you'll find everything in a single webpage. You can see all available movies, select the day and time you want to watch it and choose how many tickets do you want. All in the same place.
 
